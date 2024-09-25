@@ -21,7 +21,7 @@ Explore my projects to learn more about how I combine healthcare knowledge with 
 # Certifications and Achievements
 
 - **Master's Degree** in Health Informatics from University of Limerick
-- **Data Analysis Certificate** from Goodgle
+- **Data Analysis Certificate** from Google
 - **Published research** - 
 [Download here](https://www.healthwatchcroydon.co.uk/report/2024-05-10/experiences-homeless-people-using-health-services-croydon-february-2018)
 **Role:** Data Analyst and Report Writer
