@@ -1,6 +1,6 @@
 📚 Healthcare Professional | 🎓 Master's Degree | 📊 Data Analysis Certified  
 
-# Welcome/Bem-Vindo
+# Welcome
 
 ✨ Hi! ✨
 
@@ -25,5 +25,23 @@ Explore my projects to learn more about how I combine healthcare knowledge with 
 - **Published Report** having a role as a Data Analyst and Report Writer - 
 [Download here](https://www.healthwatchcroydon.co.uk/report/2024-05-10/experiences-homeless-people-using-health-services-croydon-february-2018)
 
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/paloma-n-151338193/)**
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/paloma-n-151338193/)** 
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=paloma-n-151338193" target="_blank">Follow on LinkedIn</a>
 
