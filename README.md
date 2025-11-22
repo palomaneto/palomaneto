@@ -26,6 +26,7 @@ Explore my projects to learn more about how I combine healthcare knowledge with 
 [Download here](https://www.healthwatchcroydon.co.uk/report/2024-05-10/experiences-homeless-people-using-health-services-croydon-february-2018)
 
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/paloma-n-151338193/)** 
+    
       <style>
         .libutton {
           display: flex;
