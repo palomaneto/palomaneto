@@ -15,7 +15,13 @@ I specialise in:
 
 Explore my projects to learn more about how I combine healthcare knowledge with data-driven insights for better client outcomes.
 
+# 🔑 Vision & Mission
 
+Vision:
+Bridging clinical experience and health data to support preventive care.
+
+Mission:
+Applying health informatics and frontline clinical insight to improve how healthcare data is used for prevention and decision-making.
 
 # Certifications and Achievements
 
