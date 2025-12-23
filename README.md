@@ -31,7 +31,5 @@ Applying health informatics and frontline clinical insight to improve how health
 - **Published Report** having a role as a Data Analyst and Report Writer - 
 [Download here](https://www.healthwatchcroydon.co.uk/report/2024-05-10/experiences-homeless-people-using-health-services-croydon-february-2018)
 
-**[Connect](https://www.linkedin.com/in/paloma-n-151338193/)** 
-    
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=paloma-n-151338193" target="_blank">Follow on LinkedIn</a>
+**[Follow and Connect on LinkedIn](https://www.linkedin.com/in/paloma-n-151338193/)**
 
