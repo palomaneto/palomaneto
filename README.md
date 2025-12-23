@@ -6,7 +6,7 @@
 
 I'm Paloma.
 
-A dental professional with a lifelong interest in public, social and health impact. I'm certified in Data Analysis and SQL with continuous dedication for growth, soon to graduate from my Master's degree in Health Informatics and ready to make lasting influence. 
+A dental professional with a lifelong interest in public health, social and health impact. I'm certified in Data Analysis and SQL with continuous dedication for growth, soon to graduate from my Master's degree in Health Informatics and ready to make lasting influence. 
 My expertise is focused on client-centred planning and leveraging data to improve outcomes.
 
 I specialise in:
