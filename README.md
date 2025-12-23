@@ -1,6 +1,6 @@
 📚 Healthcare Professional | 🎓 Master's Degree | 📊 Data Analysis Certified  
 
-# Welcome
+# ✨ Welcome
 
 ✨ Hi! ✨
 
@@ -23,7 +23,7 @@ Bridging clinical experience and health data to support preventive care.
 Mission:
 Applying health informatics and frontline clinical insight to improve how healthcare data is used for prevention and decision-making.
 
-# Certifications and Achievements
+# 🎓 Achievements
 
 - **1st Class Honours MSc Degree in Health Informatics** from University of Limerick
 - **Data Analysis Certificate** from Google - [View here](https://coursera.org/share/96b444c43090f826a06099ee79beb87f)
