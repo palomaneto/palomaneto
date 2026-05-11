@@ -1,4 +1,4 @@
-📚 Healthcare Professional | 🎓 Master's Degree | 📊 Data Analysis Certified  
+📚 Oral Health Professional | 🎓 Master's Degree | 📊 Data Analysis Certified  
 
 # ✨ Welcome
 
