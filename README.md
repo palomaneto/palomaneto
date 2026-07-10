@@ -27,7 +27,7 @@ Applying health informatics and frontline clinical insight to improve how health
 
 - **1st Class Honours MSc Degree in Health Informatics** from University of Limerick
 - **Data Analysis Certificate** from Google - [View here](https://coursera.org/share/96b444c43090f826a06099ee79beb87f)
-- **Kickstarter Data and SQL Certificate** from CFD and Deloitte - [View here](https://media.licdn.com/dms/image/v2/D4E2DAQGLY2eRCIYukw/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1728961057566?e=1764414000&v=beta&t=8NXreIDEFo3n7OQLNa52ZIl2fSR-ntHqR1Pj07F0dck)
+- **Kickstarter Data and SQL Certificate** awarded by Deloitte - [View here](https://media.licdn.com/dms/image/v2/D4E2DAQGLY2eRCIYukw/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1728961057566?e=1764414000&v=beta&t=8NXreIDEFo3n7OQLNa52ZIl2fSR-ntHqR1Pj07F0dck)
 - **Published Report** having a role as a Data Analyst and Report Writer - 
 [Download here](https://www.healthwatchcroydon.co.uk/report/2024-05-10/experiences-homeless-people-using-health-services-croydon-february-2018)
 
