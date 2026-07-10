@@ -1,4 +1,4 @@
-📚 Oral Health Professional | 🎓 Master's Degree | 📊 Data Analysis Certified  
+📚 Oral Health Professional | ✨ Health Tech Enthusisat | 🎓 Master's Degree | 📊 Data Analysis Certified  
 
 # ✨ Welcome
 
