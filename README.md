@@ -6,14 +6,25 @@
 
 I'm Paloma.
 
-A dental professional with a lifelong interest in public health, social and health impact. I'm certified in Data Analysis and SQL with continuous dedication for growth. A recent graduate of a MSc degree in Health Informatics and ready to make lasting influence. 
-My expertise is focused on people-centred impact and leveraging data to improve outcomes of service delivery.
+A clinical professional with a lifelong interest in public health, social and health impact. 
 
-I specialise in:
-- Analysing healthcare data to improve decision-making
-- Enhancing client-patient flows with technology-driven solutions
+I'm certified in Data Analysis and SQL with continuous dedication for growth. A recent graduate of a MSc degree in Health Informatics and ready to make lasting influence. 
+
+I became curious about the systems, processes and data that shape service-delivery behind the scenes. That curiosity led me into analytics, where I'm building practical projects in SQL, Power BI and healthcare data.
+
+---
+
+🩺 Interests
+
+- Healthcare Analytics
+- Health Informatics
+- SQL & Power BI
+- Healthcare CRM
+- Governance & Risk Analytics
 
 Explore my projects to learn more about how I combine healthcare knowledge with data-driven insights for better client outcomes.
+
+---
 
 # 🔑 Vision & Mission
 
@@ -22,6 +33,8 @@ Bridging clinical experience and health data to support preventive care.
 
 Mission:
 Applying health informatics and frontline clinical insight to improve how healthcare data is used for prevention and decision-making.
+
+---
 
 # 🎓 Achievements
 
