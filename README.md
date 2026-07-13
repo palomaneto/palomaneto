@@ -7,10 +7,9 @@
 I'm Paloma.
 
 A clinical professional with a lifelong interest in public health, social and health impact. 
-
-I'm certified in Data Analysis and SQL with continuous dedication for growth. A recent graduate of a MSc degree in Health Informatics and ready to make lasting influence. 
-
 I became curious about the systems, processes and data that shape service-delivery behind the scenes. That curiosity led me into analytics, where I'm building practical projects in SQL, Power BI and healthcare data.
+
+I'm certified in Data Analysis and SQL, also being a recentgraduate of a MSc degree in Health Informatics, this is an exciting continuous dedication for growth to make lasting influence. 
 
 ---
 
