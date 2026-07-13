@@ -15,11 +15,13 @@ I'm certified in Data Analysis and SQL, also being a recent graduate of a MSc de
 
 🩺 Interests
 
-- Healthcare Analytics
-- Health Informatics
-- SQL & Power BI
-- Healthcare CRM
+- SQL
+- Power BI
+- CRM
+- Analytics
 - Governance & Risk Analytics
+- Sales Administration
+- Health Informatics
 
 Explore my projects to learn more about how I combine healthcare knowledge with data-driven insights for better client outcomes.
 
